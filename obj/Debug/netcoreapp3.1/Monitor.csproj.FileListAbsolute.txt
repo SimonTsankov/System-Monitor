@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.exe
+C:\Users\User\source\repos\Monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.deps.json
+C:\Users\User\source\repos\Monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.json
+C:\Users\User\source\repos\Monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.dev.json
+C:\Users\User\source\repos\Monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.dll
+C:\Users\User\source\repos\Monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.pdb
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.Form1.resources
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfo.cs
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.dll
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.pdb
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.genruntimeconfig.cache
+C:\Users\User\source\repos\Monitor\Monitor\bin\Debug\netcoreapp3.1\OpenHardwareMonitorLib.dll
+C:\Users\User\source\repos\Monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.CopyComplete
